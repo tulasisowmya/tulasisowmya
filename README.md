@@ -49,7 +49,7 @@ I am currently focused on strengthening my fundamentals and preparing for intern
 ---
 ## 📂 Featured Software Projects
 ### 🔹 Dijkstra Shortest Path Algorithm
-🔗 GitHub: your-link
+🔗 GitHub: [ Dijkstra Shortest Path Algorithm](https://github.com/tulasisowmya/Dijkstra-Shortest-Path-Algorithm)
 
 Implemented a shortest path algorithm using an adjacency matrix for weighted graph connections. Designed distance and visited-node tracking to find the shortest route from a start node and developed path reconstruction logic to display the final route between graph nodes.
 
@@ -57,21 +57,21 @@ Tech Stack: Python, Graphs, Weighted Edges, Adjacency Matrix
 
 ---
 ### 🔹 N-Queens Problem Solver
-🔗 GitHub: your-link
+🔗 GitHub: [N-Queens Problem Solver](https://github.com/tulasisowmya/N-Queens-Problem-Solver)
 
 Implemented a DFS-based N-Queens solver that places queens row by row and stores valid board configurations. Used separate sets for columns and diagonals to check conflicts and built backtracking logic by adding and removing queen positions after each recursive call.
 
 Tech Stack: Python, DFS, Recursion, Backtracking, Sets
 ---
 ### 🔹 Custom Hash Table
-🔗 GitHub: your-link
+🔗 GitHub: [Custom Hash Table](https://github.com/tulasisowmya/Custom-Hash-Table)
 
 Built a custom hash table using a character-based hash function with ord() values for string keys. Implemented collision handling using nested dictionary buckets and developed add, lookup, and remove operations with bucket checks and empty-bucket cleanup.
 
 Tech Stack: Python, Data Structures, Hashing, Collision Handling
 ---
 ### 🔹 Budget Management App
-🔗 GitHub: your-link
+🔗 GitHub: [Budget Management App](https://github.com/tulasisowmya/Budget-Management-App)
 
 Built an object-oriented budget application using a `Category` class to manage deposits, withdrawals, balances, and category-to-category transfers. Implemented fund validation with ledger-based transaction tracking and created a text-based spending chart to display category-wise expense percentages.
 
@@ -80,7 +80,7 @@ Tech Stack:Python, OOP, Classes, Ledger Tracking, String Formatting
 ---
 ## 🔌 Featured Hardware & IoT Projects
 ### 🔹 Smart Water Dispenser
-🔗 GitHub: your-link
+🔗 GitHub: [Smart Water Dispenser](https://github.com/tulasisowmya/Smart-Water-Dispenser)
 
 Developed an automated water dispensing system to deliver user-selected quantities accurately and hygienically. Integrated a flow sensor and NodeMCU microcontroller for real-time water flow monitoring and implemented relay-based motor control to reduce water wastage.
 
@@ -88,7 +88,7 @@ Tech Stack: NodeMCU ESP8266, Flow Sensor, Relay Module
 
 ---
 ### 🔹 Smart Electricity Meter with Power Monitoring & Theft Detection
-🔗 GitHub: your-link
+🔗 GitHub: [Smart Electricity Meter with Power Monitoring & Theft Detection](https://github.com/tulasisowmya/Smart-Electricity-Meter-with-Power-Monitoring-Theft-Detection)
 
 Developed an IoT-based smart electricity meter to monitor power consumption in real time and detect electricity theft. Integrated voltage and current sensors with wireless data transmission and remote monitoring through a Blynk dashboard.
 
@@ -96,7 +96,7 @@ Tech Stack: ESP32, Sensors, IoT, Blynk
 
 ---
 ### 🔹 Vehicle Accident Detection System
-🔗 GitHub: your-link
+🔗 GitHub: [Vehicle Accident Detection System](https://github.com/tulasisowmya/Vehicle-Accident-Detection-System)
 
 Implemented a smart embedded system for automatic accident detection and instant SMS alert transmission with location details to emergency contacts.
 
