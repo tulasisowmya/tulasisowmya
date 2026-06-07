@@ -36,6 +36,7 @@ I am currently focused on strengthening my fundamentals and preparing for intern
 
 -IoT Concepts 
 
+---
 ## ⚙️Tools: 
 -Vivado
 
@@ -49,9 +50,11 @@ I am currently focused on strengthening my fundamentals and preparing for intern
 ## 📂 Featured Software Projects
 ### 🔹 Dijkstra Shortest Path Algorithm
 🔗 GitHub: your-link
+
 Implemented a shortest path algorithm using an adjacency matrix for weighted graph connections. Designed distance and visited-node tracking to find the shortest route from a start node and developed path reconstruction logic to display the final route between graph nodes.
 
 Tech Stack: Python, Graphs, Weighted Edges, Adjacency Matrix
+
 ---
 ### 🔹 N-Queens Problem Solver
 🔗 GitHub: your-link
@@ -121,11 +124,11 @@ Tech Stack: Microcontroller, Sensors, GSM/SMS Alert System
 
 ---
 ## 🏆 Achievements
-###Semifinalist – SRKR Orator Championship 2026
+### Semifinalist – SRKR Orator Championship 2026
 
 -Qualified for the semifinals in a college-level public speaking competition.
 
-###Runner-up – CRUX 2025 Hardware Project Expo
+### Runner-up – CRUX 2025 Hardware Project Expo
 
 -Recognized in the beginner-level hardware project expo organized by IETE Student Forum, SRKR Engineering College.
 
