@@ -8,14 +8,18 @@ I am currently focused on strengthening my fundamentals and preparing for intern
 ---
 ## 🔎 About Me
 -🎓 Pursuing B.Tech in Electronics and Communication Engineering
+
 -💻 Learning Python programming, data structures, algorithms, and OOP concepts
+
 -🧠 Built beginner-level software projects using Python logic and data structures
+
 -⚙️ Worked on academic hardware projects using sensors, controllers, and real-time monitoring concepts
+
 -🌱 Currently improving my skills through projects, certifications, and continuous practice
 ---
 ## 🛠️ Technical Skills
 ### Programming Languages (Basic): 
-Python,  
+Python 
 Verilog, VHDL 
 ### Electronics & IoT: 
 -Digital Electronics
