@@ -49,7 +49,7 @@ I am currently focused on strengthening my fundamentals and preparing for intern
 ---
 ## 📂 Featured Software Projects
 ### 🔹 VANET-Based Cluster Head Selection Using K-Means and Dingo Optimization Algorithm (DOA)
-🔗 **GitHub:** [VANET-Based Cluster Head Selection](https://github.com/yourusername/VANET-DOA)
+🔗 **GitHub:** [VANET-Based Cluster Head Selection](https://github.com/tulasisowmya/-VANET-Based-Cluster-Head-Selection-Using-K-Means-and-Dingo-Optimization-Algorithm-DOA-)
 
 Implemented a VANET communication system using **SUMO** and **TraCI** for real-time vehicle simulation. Applied **K-Means Clustering** to form vehicle clusters and the **Dingo Optimization Algorithm (DOA)** to select stable Cluster Heads, improving communication efficiency and evaluating performance through **PDR, Delay, Drop Ratio, Control Overhead,** and **Cluster Head Lifetime**.
 
