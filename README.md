@@ -48,6 +48,16 @@ I am currently focused on strengthening my fundamentals and preparing for intern
 
 ---
 ## 📂 Featured Software Projects
+## 🔹 Smart To-Do Manager
+
+🔗 **GitHub:** [Smart To-Do Manager](https://github.com/tulasisowmya/Smart-To-Do-Manager-Appilication/tree/main)
+
+Developed a web-based task management application that allows users to register, securely log in, and manage their personal tasks by creating, viewing, updating, and deleting tasks. Implemented a **FastAPI backend** with **REST APIs**, **MongoDB** for data storage, and **JWT authentication** for securing user access. Used JavaScript for frontend interaction and Postman for API testing.
+
+**Tech Stack:** HTML, CSS, JavaScript, Python, FastAPI, REST APIs, MongoDB, JWT Authentication, Postman, Git, GitHub
+
+---
+
 ### 🔹 VANET-Based Cluster Head Selection Using K-Means and Dingo Optimization Algorithm (DOA)
 🔗 **GitHub:** [VANET-Based Cluster Head Selection](https://github.com/tulasisowmya/-VANET-Based-Cluster-Head-Selection-Using-K-Means-and-Dingo-Optimization-Algorithm-DOA-)
 
